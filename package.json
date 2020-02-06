@@ -1,0 +1,25 @@
+{
+  "name": "forkify",
+  "version": "1.0.0",
+  "description": "forkify project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Theodore-Idoko/forkify-App.git"
+  },
+  "author": "Tochukwu Idoko",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Theodore-Idoko/forkify-App/issues"
+  },
+  "homepage": "https://github.com/Theodore-Idoko/forkify-App#readme",
+  "devDependencies": {
+    "webpack": "^4.41.5"
+  },
+  "dependencies": {
+    "jquery": "^3.4.1"
+  }
+}
